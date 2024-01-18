@@ -12,7 +12,3 @@
 | [Time Series](https://github.com/feldmansasha/Data_Science/blob/main/09.%20Time%20series.ipynb) | Content Cell|
 | [ML for texts](https://github.com/feldmansasha/Data_Science/blob/main/10.%20ML%20for%20texts.ipynb) | Content Cell|
 | [Final project](https://github.com/feldmansasha/Data_Science/blob/main/11.%20Final%20project.ipynb) | Content Cell|
-| []() | Content Cell|
-| []() | Content Cell|
-| []() | Content Cell|
-| []() | Content Cell|
