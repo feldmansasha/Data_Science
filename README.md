@@ -1,5 +1,5 @@
 # Data_Science
-| Project Name  | Used Technology |
+| Project Name  | Description |
 | ------------- | ------------- |
 | [Exploratory data analysis](https://github.com/feldmansasha/Data_Science/blob/main/01.%20Analyze.ipynb)  | We need to learn how to determine the market value of real estate. Your task is to set the parameters. This will build an automated system: it will track anomalies and fraudulent activity. |
 | [Part1](https://github.com/feldmansasha/Data_Science/blob/main/02.%20Part%201.ipynb)  | Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.  |
